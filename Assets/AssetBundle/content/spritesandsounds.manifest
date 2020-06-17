@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3427848124
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 30625a189d8ca93c7ec01371d657c939
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4a49739d07d770f03c8d5104a428cfe0
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Music/sound_18666.mp3
+- Assets/Resources/Sprites/7DBnwhE2Z3c.jpg
+Dependencies: []
